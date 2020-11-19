@@ -2,7 +2,7 @@
   "name": "catgento/magento-2-facebookfeed",
   "description": "A simple facebook file ready feed generator",
   "type": "magento2-module",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "license": [
     "OSL-3.0"
   ],
