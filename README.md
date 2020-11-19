@@ -2,7 +2,9 @@
 
 This is a very simple module that generates a csv file ready to be imported by Facebook Catalog.
 
-It generates the basic needed data from the default store view.
+It generates the basic needed data from the default store view. The feed is placed in the following path:
+
+    /pub/media/productfeed/facebook.csv
 
 ## To improve
 
